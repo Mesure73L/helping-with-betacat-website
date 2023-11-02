@@ -28,10 +28,10 @@ body {
 .topnav {
   overflow: hidden;
 }
-.topnav-dark {
+div .topnav-dark {
   background-color: #ff0000;
 }
-.topnav-light {
+div .topnav-light {
   background-color: #0000ff;
 }
 
