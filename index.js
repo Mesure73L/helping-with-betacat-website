@@ -3,6 +3,7 @@ function ToggleDarkMode() {
     element.classList.toggle("dark-mode");
     var div = document.getElementsByClassName("topnav");
     div.classList.toggle("topnav-dark");
+    div.classList.toggle("topnav-light");
 
    
 
