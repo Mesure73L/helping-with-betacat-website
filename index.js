@@ -1,7 +1,7 @@
-const topnav = document.getElementsByClassName("topnav");
+const topnav = document.getElementById("nav");
+const body = document.body;
 function ToggleDarkMode() {
-    let element = document.body;
-    element.classList.toggle("dark-mode");
+    body.classList.toggle("dark-mode");
     topnav.classList.toggle("topnavDark");
     topnav.classList.toggle("topnavLight");
 }
