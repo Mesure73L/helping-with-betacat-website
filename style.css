@@ -29,10 +29,10 @@ body {
   overflow: hidden;
 }
 .topnav-dark {
-  background-color: blue;
+  background-color: #ff0000;
 }
 .topnav-light {
-  background-color: red;
+  background-color: #0000ff;
 }
 
 /* Style the hyperlinks in the topnav */
