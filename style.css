@@ -4,44 +4,43 @@ body {
     color: #1F2328;
     font-size: 25px;
     font-family: 'Roboto';
-  }
+}
 
-  .dark-mode {
+.dark-mode {
     background-color: #22272E;
     color: #ADBAC7;
-  }
+}
   
-  .button {
-  background-color: #04AA6D;
-  border: none;
-  border-radius: 50%;
-  height: 30px;
-  width: 30px;
-  transition-duration: 0.1s
-  
+.button {
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    transition-duration: 0.1s
 }
 .button:hover {
-  background-color: #05b776;
-  color: white;
+    background-color: #05b776;
+    color: white;
 }
 /* Style the topnav*/
 .topnav {
-  overflow: hidden;
+    overflow: hidden;
 }
 div .topnav-dark {
-  background-color: #ff0000;
+    background-color: #ff0000;
 }
 div .topnav-light {
-  background-color: #0000ff;
+    background-color: #0000ff;
 }
 
 /* Style the hyperlinks in the topnav */
 .topnav a {
-  float: left;
-  color: #f2f2f2;
-  background-color: #1F2328;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    float: left;
+    color: #f2f2f2;
+    background-color: #1F2328;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
