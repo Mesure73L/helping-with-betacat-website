@@ -5,7 +5,7 @@ function ToggleDarkMode() {
     topnav.classList.toggle("topnavDark");
     topnav.classList.toggle("topnavLight");
 }
-/*if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     ToggleDarkMode();
 }
-*/
+
