@@ -24,10 +24,10 @@ body {
     color: white;
 }
 /* Style the topnav*/
-.topnav-dark {
+.topnavDark {
     background-color: #ff0000;
 }
-.topnav-light {
+.topnavLight {
     background-color: #0000ff;
 }
 .topnav {
