@@ -24,15 +24,16 @@ body {
     color: white;
 }
 /* Style the topnav*/
+.topnav-dark {
+    background-color: #ff0000;
+}
+.topnav-light {
+    background-color: #0000ff;
+}
 .topnav {
     overflow: hidden;
 }
-div .topnav-dark {
-    background-color: #ff0000;
-}
-div .topnav-light {
-    background-color: #0000ff;
-}
+
 
 /* Style the hyperlinks in the topnav */
 .topnav a {
