@@ -26,11 +26,13 @@ body {
 }
 /* Style the topnav*/
 .topnav {
-  background-color: #ffffff;
   overflow: hidden;
 }
 .topnav-dark {
   background-color: black;
+}
+.topnav-light {
+  background-color: white;
 }
 
 /* Style the hyperlinks in the topnav */
